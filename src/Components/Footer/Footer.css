@@ -1,0 +1,34 @@
+.footer-section{
+    background:#002147;
+    padding:40px 0px;
+    text-align:center;
+}
+.footer-logo{
+    width:100px;
+    height:100px;
+}
+.list-unstyled li p{
+    font-size:13px;
+    color:#838384
+}
+
+.footer-section h4{
+    font-size: 14px;
+    color: #d6d6d6;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+}
+.social-media .social-media-icons .font-icon{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border: 1px solid #6f6f6f;
+    border-radius: 20px;
+    padding: 8px;
+    color: #c5c5c5;
+    margin-right:15px;
+    transition: all 0.5s ease;
+}
+.social-media .social-media-icons .font-icon:hover{
+    transform: rotateY(-180deg);
+}

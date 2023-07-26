@@ -1,0 +1,10 @@
+.footer-last{
+    background:#01172f;
+}
+.footer-last p{
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 8px;
+    color: #adadad;
+    font-size: 13px;
+}
